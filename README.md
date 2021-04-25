@@ -1,2 +1,2 @@
 # SWEN-303
-My assignments from User Experience Engineering (SWEN 303). Made a prototype of the NZ COVID-19 Tracer App, as well as personas and use cases (including a diagram).
+My design and prototype of a clone of the NZ COVID Tracer App. Repository includes use case diagram and personas that influenced the design process of the app.
